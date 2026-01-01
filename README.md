@@ -6,6 +6,6 @@
 
 - I have a lot of frontend experience but admit I prefer the server-side work.
 
-- I build small personal apps to maximise my time playing EVE Online.
+- I build small personal apps to maximise my time playing EVE Online. I maintain one VPS for apps and another VPS for metrics.
 
 - I have family that is more important to me than all of the above.
