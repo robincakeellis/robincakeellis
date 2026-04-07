@@ -1,6 +1,6 @@
 ## Robin Edward Ellis
 
-- I am a highly experienced developer and began in the 8-bit home computer days. If you think my experience makes me "too old", stop reading and fuck off.
+- I am a highly experienced developer (retired) and began in the 8-bit home computer days. If you think my experience makes me "too old", stop reading and fuck off.
 
 - I love using Java for backend work and appreciate logging, metrics and good monitoring (Prometheus, Alert Manager, Grafana). Kibana is good but Splunk is still The Don.
 
